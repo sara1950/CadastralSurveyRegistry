@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    background-color: azure;
+}
+
+h1{
+    text-align: center;
+ 
+}
+
+#signIn{
+    background-color: rgb(152, 227, 227);
+    display: block;
+    padding: 10px;
+    margin-top: 250px;
+    margin-left: 500px;
+    width: 500px;
+    border: 2px solid black;
+    box-shadow:  10px 10px rgba(28, 20, 20, 0.5);
+}
+
+#signIn form{
+    margin-top: 20px;
+    margin-left: 150px;
+
+}
+
+#signIn form input{
+    padding: 8px;
+
+}
+.btn{
+    margin-left: 60px;
+}
+#signInButton{
+    padding: 8px;
+
+}
+
+#signUpButton{
+    padding: 8px;
+}
+
+#signUp{
+    background-color: rgb(152, 227, 227);
+    display: block;
+    padding: 10px;
+    margin-top: 250px;
+    margin-left: 500px;
+    width: 500px;
+    border: 2px solid black;
+    box-shadow:  10px 10px rgba(28, 20, 20, 0.5);
+}
+#signUp form{
+    margin-top: 20px;
+    margin-left: 150px;
+
+}
+
+#signUp form input{
+    padding: 8px;
+
+}

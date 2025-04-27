@@ -1,0 +1,127 @@
+{
+  "izmjere": [
+    {
+      "id": 1,
+      "mb_k_opcine": "335649",
+      "kat_opcina": "Trnje",
+      "izvodjac": {
+        "naziv": "Geo tvrtka d.o.o.",
+        "adresa": "Zagrebačka 11, Zagreb",
+        "grad": "Zagreb"
+      },
+      "datum_pocetka": "26.04.2025.",
+      "ocekivano_trajanje": "15 mjeseci"
+    },
+    {
+      "id": 2,
+      "mb_k_opcine": "311880",
+      "kat_opcina": "Lokvičići",
+      "izvodjac": {
+        "naziv": "Geo tvrtka d.o.o.",
+        "adresa": "Zagrebačka 11, Zagreb",
+        "grad": "Zagreb"
+      },
+      "datum_pocetka": "27.09.2024.",
+      "ocekivano_trajanje": "15 mjeseci"
+    },
+    {
+      "id": 3,
+      "mb_k_opcine": "327450",
+      "kat_opcina": "Kuzmica",
+      "izvodjac": {
+        "naziv": "Geodet d.o.o.",
+        "adresa": "Osječka 12",
+        "grad": "Osijek"
+      },
+      "datum_pocetka": "15.10.2024.",
+      "ocekivano_trajanje": "24 mjeseci"
+    },
+    {
+      "id": 4,
+      "mb_k_opcine": "335428",
+      "kat_opcina": "Horvati",
+      "izvodjac": {
+        "naziv": "GeoMjernik d.o.o.",
+        "adresa": "Splitska 22",
+        "grad": "Đakovo"
+      },
+      "datum_pocetka": "05.10.2024.",
+      "ocekivano_trajanje": "24 mjeseci"
+    },
+    {
+      "id": 5,
+      "mb_k_opcine": "301850",
+      "kat_opcina": "Krasica",
+      "izvodjac": {
+        "naziv": "UOIG Mijić d.o.o.",
+        "adresa": "Put lipa 22",
+        "grad": "Pula"
+      },
+      "datum_pocetka": "26.05.2023.",
+      "ocekivano_trajanje": "24 mjeseci"
+    },
+    {
+      "id": 6,
+      "mb_k_opcine": "328014",
+      "kat_opcina": "Vilić Selo",
+      "izvodjac": {
+        "naziv": "Terra d.o.o.",
+        "adresa": "Zadarska 58",
+        "grad": "Zadar"
+      },
+      "datum_pocetka": "26.01.2024.",
+      "ocekivano_trajanje": "24 mjeseci"
+    },
+    {
+      "id": 7,
+      "mb_k_opcine": "325074",
+      "kat_opcina": "Noršić Selo",
+      "izvodjac": {
+        "naziv": "GEO d.o.o.",
+        "adresa": "D.Cesarića 123",
+        "grad": "Varaždin"
+      },
+      "datum_pocetka": "12.05.2024.",
+      "ocekivano_trajanje": "15 mjeseci"
+    },
+    {
+      "id": 8,
+      "mb_k_opcine": "306126",
+      "kat_opcina": "Blato",
+      "izvodjac": {
+        "naziv": "IGEA d.o.o.",
+        "adresa": "F.Supila 123",
+        "grad": "Varaždin"
+      },
+      "datum_pocetka": "05.06.2024.",
+      "ocekivano_trajanje": "15 mjeseci"
+    },
+    {
+      "id": 9,
+      "mb_k_opcine": "328723",
+      "kat_opcina": "Sibinj",
+      "izvodjac": {
+        "naziv": "IGEA d.o.o.",
+        "adresa": "F.Supila 123",
+        "grad": "Varaždin"
+      },
+      "datum_pocetka": "28.06.2024.",
+      "ocekivano_trajanje": "15 mjeseci"
+    },
+    {
+      "id": 10,
+      "mb_k_opcine": "334693",
+      "kat_opcina": "Islam Latinski",
+      "izvodjac": {
+        "naziv": "Mjernik d.o.o.",
+        "adresa": "Kliška 123",
+        "grad": "Split"
+      },
+      "datum_pocetka": "28.08.2024.",
+      "ocekivano_trajanje": "12 mjeseci"
+    }
+    
+  
+    
+  ]
+}
